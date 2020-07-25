@@ -1,4 +1,4 @@
-# holbertonschool-zero_day :octocat :#
+# holbertonschool-zero_day :octocat: #
 This repository contains basic Emacs and Vim concepts.
 ## Environment ##
 * CLI Editors: Emacs, Vim
